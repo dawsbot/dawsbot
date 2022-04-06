@@ -4,7 +4,7 @@
   Founder of <a href="https://earni.fi">earni.fi</a>. Helped Earnifi visitors find $500 million USD in aidrops in 2021.<br/><br/><br/>Product BUIDLER and web3 dev. Obsessed with Ethereum.
 </p>
 <p align="center">
-  
+  <a href="https://twitter.com/dawsonbotsford" target="_blank">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dawsonbotsford?style=social">
-
+  </a>
 </p>

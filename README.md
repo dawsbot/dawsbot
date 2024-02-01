@@ -25,4 +25,4 @@
 
 These are the sponsors that make this possible! [Support today here](https://github.com/sponsors/dawsbot)
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/TABASCOatw"><img src="https://github.com/TABASCOatw.png" width="60px" alt="TABASCO" /></a><a href="https://github.com/getsentry"><img src="https://github.com/getsentry.png" width="60px" alt="Sentry" /></a><a href="https://github.com/codecov"><img src="https://github.com/codecov.png" width="60px" alt="Codecov" /></a><a href="https://github.com/FrontendMasters"><img src="https://github.com/FrontendMasters.png" width="60px" alt="Frontend Masters" /></a><!-- sponsors -->

@@ -19,8 +19,10 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/ETH-e6e6e6?style=for-the-badge&logo=ethereum&logoColor=black" />
 </p>
-
-
 </p>
 
+## Sponsors
 
+These are the sponsors that make this possible! [Support today here](https://github.com/sponsors/dawsbot)
+
+<!-- sponsors --><!-- sponsors -->

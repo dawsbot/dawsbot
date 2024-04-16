@@ -1,12 +1,16 @@
+import { Dune } from "dune-api-client";
+import omit from "just-omit";
+import { z } from "zod";
+
 export async function generateHtml(username: string, duneApiKey: string) {
-  console.log("fetching tips from dune...");
+  console.log(
+    `fetching tips from dune for https://warpcast.com/${username} ...`
+  );
   const tips = await fetchValidTips(username, duneApiKey);
-  console.dir({ tips });
-  console.log("fetching photo urls from neynar...");
+  console.log("fetching photo urls from neynar for all sponsors...");
   const profilePhotos = await fetchProfilePhotoUrls(
     tips.map((tip) => tip.wallet_address)
   );
-  console.dir({ profilePhotos });
 
   return tips
     .map((tip) => {
@@ -16,10 +20,6 @@ export async function generateHtml(username: string, duneApiKey: string) {
     })
     .join("");
 }
-
-import { Dune } from "dune-api-client";
-import omit from "just-omit";
-import { z } from "zod";
 
 // https://dune.com/queries/3626954/6109458
 const QUERY_ID = 3626954;

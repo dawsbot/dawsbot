@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - uses: oven-sh/setup-bun@v1
         with:
@@ -22,6 +22,9 @@ jobs:
           FARCASTER_USERNAME: ${{ secrets.FARCASTER_USERNAME }}
           NEYNAR_API_KEY: ${{ secrets.NEYNAR_API_KEY }}
           DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
+
+      - name: Commit changes
+        run: bash ./commit.sh
 
       - name: Generate Sponsors 💖
         uses: JamesIves/github-sponsors-readme-action@v1

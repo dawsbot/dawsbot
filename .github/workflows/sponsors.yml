@@ -16,7 +16,7 @@ jobs:
 
       - run: bun install
       - name: Update sponsors
-        run: bun run update-sponsors
+        run: bun run update-degen-sponsors
         env:
           PAT: ${{ secrets.PAT }}
           FARCASTER_USERNAME: ${{ secrets.FARCASTER_USERNAME }}

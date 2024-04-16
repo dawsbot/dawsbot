@@ -10,7 +10,7 @@ async function main() {
 
   const readme = await fs.promises.readFile("README.md", "utf8");
   const startWith = "<!-- replace-degen-sponsors -->";
-  const endWith = "<!-- replace-degen-sponsors -->";
+  const endWith = startWith;
   await fs.promises.writeFile(
     "README.md",
     replaceSection({

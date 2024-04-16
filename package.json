@@ -1,0 +1,22 @@
+{
+  "name": "dawsbot",
+  "version": "1.0.0",
+  "description": "![dawson](https://user-images.githubusercontent.com/3408480/145767802-2eb8e5b4-e364-441e-9bc1-aa254f872c34.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-degen-sponsors": "bun run update-degen-sponsors.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "dune-api-client": "^0.0.4",
+    "just-omit": "^2.2.0",
+    "replace-section": "^1.0.0",
+    "zod": "^3.22.4"
+  }
+}

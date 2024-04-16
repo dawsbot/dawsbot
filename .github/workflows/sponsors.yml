@@ -10,6 +10,19 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v2
 
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - run: bun install
+      - name: Update sponsors
+        run: bun run update-sponsors
+        env:
+          PAT: ${{ secrets.PAT }}
+          FARCASTER_USERNAME: ${{ secrets.FARCASTER_USERNAME }}
+          NEYNAR_API_KEY: ${{ secrets.NEYNAR_API_KEY }}
+          DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
+
       - name: Generate Sponsors 💖
         uses: JamesIves/github-sponsors-readme-action@v1
         with:

@@ -16,7 +16,7 @@ export async function generateHtml(username: string, duneApiKey: string) {
     .map((tip) => {
       return `<a href="https://warpcast.com/${tip.fname}"><img src="${
         profilePhotos[tip.wallet_address]
-      }" width="60px" alt="${tip.display_name}" /></a>`;
+      }" width="60px" alt="${tip.display_name}" /></a>\n`;
     })
     .join("");
 }

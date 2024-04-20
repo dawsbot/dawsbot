@@ -14,11 +14,8 @@ jobs:
         with:
           bun-version: latest
 
-      - run: bun install
-      - name: Update sponsors
-        run: bun run update-degen-sponsors
-        env:
-          PAT: ${{ secrets.PAT }}
+      - uses: dawsbot/degen-tips-readme-action@v0
+        with:
           FARCASTER_USERNAME: ${{ secrets.FARCASTER_USERNAME }}
           NEYNAR_API_KEY: ${{ secrets.NEYNAR_API_KEY }}
           DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}

@@ -31,6 +31,8 @@ These are the sponsors that make this possible! [Support today here](https://git
 
 ### Degen Sponsors ([$DEGEN tippers from farcaster](https://warpcast.com/daws))
 
+> Farcaster is decentralized social media 
+
 <!-- replace-degen-sponsors -->
 <a href="https://warpcast.com/greg"><img src="https://i.seadn.io/gae/YsASemS2qwPJK2yI9fmN8HX1-DeIDy9EQxX4KsRk9rkniwn9A7xUyMu_vKR75Oxrs8QAKfIjqdmf6Aw9A9fsehJHWSz2LiNpnV_TPQ?w=500&auto=format" width="60px" alt="Greg" /></a>
 <a href="https://warpcast.com/nbragg"><img src="https://i.imgur.com/BacP8dn.jpg" width="60px" alt="Noah Bragg 🐟" /></a>

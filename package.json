@@ -4,8 +4,7 @@
   "description": "![dawson](https://user-images.githubusercontent.com/3408480/145767802-2eb8e5b4-e364-441e-9bc1-aa254f872c34.png)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "update-degen-sponsors": "bun run update-degen-sponsors.ts"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",

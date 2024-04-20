@@ -10,11 +10,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
 
-      - uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: latest
-
-      - uses: dawsbot/degen-tips-readme-action@v0
+      - uses: dawsbot/degen-tips-readme-action@v0.1
         with:
           FARCASTER_USERNAME: ${{ secrets.FARCASTER_USERNAME }}
           NEYNAR_API_KEY: ${{ secrets.NEYNAR_API_KEY }}

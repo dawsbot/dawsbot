@@ -40,7 +40,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/darrylyeo"><img src="https://i.imgur.com/cso0QgT.png" width="60px" alt="Darryl Yeo 🛠️" /></a>
 <a href="https://warpcast.com/corbin.eth"><img src="https://res.cloudinary.com/merkle-manufactory/image/fetch/c_fill,f_png,w_256/https://lh3.googleusercontent.com/szIk2U62Zfaux7eK8tinvy9vCUz2EPDUYet8WDKN9_dCJmm2-JM8Fux7_Cy2ZWzE9h2g3dIL9j_ywn8iK_UZYB0sToZ1dcP0QBsmh2w" width="60px" alt="Corbin Page 👑🎩" /></a>
 <a href="https://warpcast.com/ds8"><img src="https://i.imgur.com/pK5BjjD.jpg" width="60px" alt="dusan" /></a>
-<a href="https://warpcast.com/alexk"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/178e3ab9-d268-4c2c-1f5a-cbc81ba4eb00/rectcrop3" width="60px" alt="ak ◕ ◡ ◕ 🇮🇱🎩🍖" /></a>
+<a href="https://warpcast.com/alexk"><img src="https://gmcafe.s3.us-east-2.amazonaws.com/keek/original/3020.png" width="60px" alt="ak ◕ ◡ ◕ 🇮🇱🎩🍖" /></a>
 <a href="https://warpcast.com/gilbster"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a82f67cc-3489-446c-0039-83097ea66d00/original" width="60px" alt="Alexander" /></a>
 <a href="https://warpcast.com/tomuky.eth"><img src="https://i.imgur.com/pxNCWDA.jpg" width="60px" alt="tomuky" /></a>
 <a href="https://warpcast.com/gabo"><img src="https://supercast.mypinata.cloud/ipfs/QmQifwMaWueQcg9oLu74EJoDHJ3PifCjUuKydF82rH3RWd?filename=Lucas-Verra-GIF_2.gif" width="60px" alt="Lucas | POAP Studio" /></a>

@@ -41,7 +41,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/darrylyeo"><img src="https://i.imgur.com/cso0QgT.png" width="60px" alt="Darryl Yeo 🛠️" /></a>
 <a href="https://warpcast.com/alexgrover.eth"><img src="https://i.imgur.com/PKRVjbX.jpg" width="60px" alt="alex" /></a>
 <a href="https://warpcast.com/dos.eth"><img src="https://i.imgur.com/dXBMJA1.gif" width="60px" alt="@developer 🎩👑" /></a>
-<a href="https://warpcast.com/swishh.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ca23bae8-0db4-4164-d646-03c5c8966c00/original" width="60px" alt="Swishh 🎩" /></a>
+<a href="https://warpcast.com/swishh.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ca23bae8-0db4-4164-d646-03c5c8966c00/original" width="60px" alt="Swishh ↗🎩" /></a>
 <a href="https://warpcast.com/corbin.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c3409587-b044-4743-2486-d5751894d900/original" width="60px" alt="Corbin Page 👑🎩" /></a>
 <a href="https://warpcast.com/ds8"><img src="https://i.imgur.com/pK5BjjD.jpg" width="60px" alt="dusan" /></a>
 <a href="https://warpcast.com/nftlobby"><img src="https://i.imgur.com/jmCPDK6.jpg" width="60px" alt="Howie NFTlobby/TAC🎩" /></a>

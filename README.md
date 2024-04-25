@@ -51,15 +51,17 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/tomuky.eth"><img src="https://i.imgur.com/pxNCWDA.jpg" width="60px" alt="tomuky" /></a>
 <a href="https://warpcast.com/gabo"><img src="https://supercast.mypinata.cloud/ipfs/QmQifwMaWueQcg9oLu74EJoDHJ3PifCjUuKydF82rH3RWd?filename=Lucas-Verra-GIF_2.gif" width="60px" alt="Lucas | POAP Studio" /></a>
 <a href="https://warpcast.com/tudorizer"><img src="https://i.imgur.com/L3cPsrK.gif" width="60px" alt="Tudor 🟪 Engineer turned fCTO" /></a>
-<a href="https://warpcast.com/vijay"><img src="undefined" width="60px" alt="Vijay🫂" /></a>
+<a href="https://warpcast.com/vijay"><img src="https://i.imgur.com/EetFrhB.jpg" width="60px" alt="Vijay🫂" /></a>
 <a href="https://warpcast.com/keller"><img src="https://i.imgur.com/4g901hX.jpg" width="60px" alt="keller" /></a>
 <a href="https://warpcast.com/jereld"><img src="https://i.imgur.com/VbtLWtG.gif" width="60px" alt="jereld" /></a>
+<a href="https://warpcast.com/downshift"><img src="https://i.imgur.com/Ln3n0SF.gif" width="60px" alt="downshift 🎩🍖↑" /></a>
 <a href="https://warpcast.com/prberg"><img src="https://i.imgur.com/ccctjma.jpg" width="60px" alt="Paul Razvan Berg" /></a>
 <a href="https://warpcast.com/h3lx.eth"><img src="https://occb0ofnixhvqbrv.public.blob.vercel-storage.com/images/clut88yy104ho14apaq05u9jr.png" width="60px" alt="HΞLiX 🧙‍♂️🎩" /></a>
 <a href="https://warpcast.com/alexastro"><img src="https://i.imgur.com/dNpXbZg.png" width="60px" alt="Alex Astro" /></a>
 <a href="https://warpcast.com/lolclark"><img src="https://i.imgur.com/imQlhPL.gif" width="60px" alt="Lol Clark 🍪" /></a>
 <a href="https://warpcast.com/microchipgnu"><img src="https://i.imgur.com/hvaOPrU.jpg" width="60px" alt="Micro " /></a>
 <a href="https://warpcast.com/slowking.eth"><img src="https://i.imgur.com/Q30JRYM.gif" width="60px" alt="Amar.eth 🎩 ↑ " /></a>
+<a href="https://warpcast.com/smac"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e16b9a51-e4ae-4385-8ebf-9ca7eeb9cd00/original" width="60px" alt="Mac 🎩" /></a>
 <a href="https://warpcast.com/ngan300713"><img src="https://i.imgur.com/2BL3qQX.jpg" width="60px" alt="Ngan 🔮 🎩 🍖 🧀" /></a>
 
 <!-- replace-degen-sponsors -->

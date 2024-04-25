@@ -10,10 +10,9 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
 
-      - uses: dawsbot/degen-tips-readme-action@v1
+      - uses: dawsbot/degen-tips-readme-action@v1.1.0
         with:
           FARCASTER_USERNAME: ${{ secrets.FARCASTER_USERNAME }}
-          NEYNAR_API_KEY: ${{ secrets.NEYNAR_API_KEY }}
           DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
 
       - name: Commit changes

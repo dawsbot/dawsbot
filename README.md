@@ -53,7 +53,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/tudorizer"><img src="https://i.imgur.com/L3cPsrK.gif" width="60px" alt="Tudor 🟪 Engineer turned fCTO" /></a>
 <a href="https://warpcast.com/vijay"><img src="https://i.imgur.com/EetFrhB.jpg" width="60px" alt="Vijay🫂" /></a>
 <a href="https://warpcast.com/keller"><img src="https://i.imgur.com/4g901hX.jpg" width="60px" alt="keller" /></a>
-<a href="https://warpcast.com/jereld"><img src="https://i.imgur.com/VbtLWtG.gif" width="60px" alt="jereld" /></a>
+<a href="https://warpcast.com/jereld"><img src="https://i.imgur.com/VbtLWtG.gif" width="60px" alt="jereld 🦈🐝" /></a>
 <a href="https://warpcast.com/downshift"><img src="https://i.imgur.com/Ln3n0SF.gif" width="60px" alt="downshift 🎩🍖↑" /></a>
 <a href="https://warpcast.com/prberg"><img src="https://i.imgur.com/ccctjma.jpg" width="60px" alt="Paul Razvan Berg" /></a>
 <a href="https://warpcast.com/h3lx.eth"><img src="https://occb0ofnixhvqbrv.public.blob.vercel-storage.com/images/clut88yy104ho14apaq05u9jr.png" width="60px" alt="HΞLiX 🧙‍♂️🎩" /></a>

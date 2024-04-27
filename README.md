@@ -41,7 +41,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/darrylyeo"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d3c3305a-e336-4149-2916-fbaf938f3100/original" width="60px" alt="Darryl Yeo 🛠️" /></a>
 <a href="https://warpcast.com/alexgrover.eth"><img src="https://i.imgur.com/PKRVjbX.jpg" width="60px" alt="alex" /></a>
 <a href="https://warpcast.com/swishh.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5fdfb18d-39b9-4338-b174-a90b49ef3600/original" width="60px" alt="Swishh ↗🎩" /></a>
-<a href="https://warpcast.com/dos.eth"><img src="https://i.imgur.com/dXBMJA1.gif" width="60px" alt="@developer 🎩👑" /></a>
+<a href="https://warpcast.com/dos.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7fd87280-dec4-4526-12b7-56b3abe13100/original" width="60px" alt="@developer 🎩👑" /></a>
 <a href="https://warpcast.com/corbin.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38dad038-6092-4a1b-ae05-cfb316b4ef00/original" width="60px" alt="Corbin Page 👑🎩" /></a>
 <a href="https://warpcast.com/ds8"><img src="https://i.imgur.com/pK5BjjD.jpg" width="60px" alt="dusan" /></a>
 <a href="https://warpcast.com/nftlobby"><img src="https://i.imgur.com/jmCPDK6.jpg" width="60px" alt="Howie NFTlobby/TAC🎩" /></a>
@@ -50,7 +50,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/gilbster"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/a82f67cc-3489-446c-0039-83097ea66d00/original" width="60px" alt="Alexander" /></a>
 <a href="https://warpcast.com/tomuky.eth"><img src="https://i.imgur.com/pxNCWDA.jpg" width="60px" alt="tomuky" /></a>
 <a href="https://warpcast.com/gabo"><img src="https://supercast.mypinata.cloud/ipfs/QmQifwMaWueQcg9oLu74EJoDHJ3PifCjUuKydF82rH3RWd?filename=Lucas-Verra-GIF_2.gif" width="60px" alt="Lucas | POAP Studio" /></a>
-<a href="https://warpcast.com/tudorizer"><img src="https://i.imgur.com/L3cPsrK.gif" width="60px" alt="Tudor 🟣🟡 Engineer → fCTO" /></a>
+<a href="https://warpcast.com/tudorizer"><img src="https://i.imgur.com/L3cPsrK.gif" width="60px" alt="Tudor 🟣🟡 Far(away)Con Ldn" /></a>
 <a href="https://warpcast.com/vijay"><img src="https://i.imgur.com/EetFrhB.jpg" width="60px" alt="Vijay🫂" /></a>
 <a href="https://warpcast.com/keller"><img src="https://i.imgur.com/4g901hX.jpg" width="60px" alt="keller" /></a>
 <a href="https://warpcast.com/jereld"><img src="https://degenfers.art/images/4987.png" width="60px" alt="jereld" /></a>
@@ -59,6 +59,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/h3lx.eth"><img src="https://occb0ofnixhvqbrv.public.blob.vercel-storage.com/images/clut88yy104ho14apaq05u9jr.png" width="60px" alt="HΞLiX 🧙‍♂️🎩" /></a>
 <a href="https://warpcast.com/alexastro"><img src="https://i.imgur.com/dNpXbZg.png" width="60px" alt="Alex Astro" /></a>
 <a href="https://warpcast.com/lolclark"><img src="https://i.imgur.com/imQlhPL.gif" width="60px" alt="Lol Clark 🍪" /></a>
+<a href="https://warpcast.com/chuy"><img src="https://ipfs.decentralized-content.com/ipfs/QmfMqLmzfCbDwNdNhLAKpSC4YWWkReg4BMptJw21AogucV/5609.png" width="60px" alt="Chuy Garcia" /></a>
 <a href="https://warpcast.com/microchipgnu"><img src="https://i.imgur.com/hvaOPrU.jpg" width="60px" alt="Micro " /></a>
 <a href="https://warpcast.com/slowking.eth"><img src="https://i.imgur.com/Q30JRYM.gif" width="60px" alt="Amar.eth 🎩 ↑ " /></a>
 <a href="https://warpcast.com/smac"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e16b9a51-e4ae-4385-8ebf-9ca7eeb9cd00/original" width="60px" alt="Mac 🎩" /></a>

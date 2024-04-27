@@ -40,8 +40,8 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/polluterofminds"><img src="https://i.seadn.io/gae/lhGgt7yK1JiBVYz_HBxcAmYLRtP03aw5xKX4FgmFT9Ai7kLD5egzlLvb0lkuRNl28shtjr07DC8IHzLUkTqlWUMndUzC9R5_MSxH3g?w=500&auto=format" width="60px" alt="Justin Hunter" /></a>
 <a href="https://warpcast.com/darrylyeo"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d3c3305a-e336-4149-2916-fbaf938f3100/original" width="60px" alt="Darryl Yeo 🛠️" /></a>
 <a href="https://warpcast.com/alexgrover.eth"><img src="https://i.imgur.com/PKRVjbX.jpg" width="60px" alt="alex" /></a>
-<a href="https://warpcast.com/dos.eth"><img src="https://i.imgur.com/dXBMJA1.gif" width="60px" alt="@developer 🎩👑" /></a>
 <a href="https://warpcast.com/swishh.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5fdfb18d-39b9-4338-b174-a90b49ef3600/original" width="60px" alt="Swishh ↗🎩" /></a>
+<a href="https://warpcast.com/dos.eth"><img src="https://i.imgur.com/dXBMJA1.gif" width="60px" alt="@developer 🎩👑" /></a>
 <a href="https://warpcast.com/corbin.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/38dad038-6092-4a1b-ae05-cfb316b4ef00/original" width="60px" alt="Corbin Page 👑🎩" /></a>
 <a href="https://warpcast.com/ds8"><img src="https://i.imgur.com/pK5BjjD.jpg" width="60px" alt="dusan" /></a>
 <a href="https://warpcast.com/nftlobby"><img src="https://i.imgur.com/jmCPDK6.jpg" width="60px" alt="Howie NFTlobby/TAC🎩" /></a>
@@ -53,7 +53,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/tudorizer"><img src="https://i.imgur.com/L3cPsrK.gif" width="60px" alt="Tudor 🟣🟡 Engineer → fCTO" /></a>
 <a href="https://warpcast.com/vijay"><img src="https://i.imgur.com/EetFrhB.jpg" width="60px" alt="Vijay🫂" /></a>
 <a href="https://warpcast.com/keller"><img src="https://i.imgur.com/4g901hX.jpg" width="60px" alt="keller" /></a>
-<a href="https://warpcast.com/jereld"><img src="https://degenfers.art/images/4987.png" width="60px" alt="jereld 🦈🐝" /></a>
+<a href="https://warpcast.com/jereld"><img src="https://degenfers.art/images/4987.png" width="60px" alt="jereld" /></a>
 <a href="https://warpcast.com/downshift"><img src="https://i.imgur.com/Ln3n0SF.gif" width="60px" alt="downshift 🎩🍖↑" /></a>
 <a href="https://warpcast.com/prberg"><img src="https://i.imgur.com/ccctjma.jpg" width="60px" alt="Paul Razvan Berg" /></a>
 <a href="https://warpcast.com/h3lx.eth"><img src="https://occb0ofnixhvqbrv.public.blob.vercel-storage.com/images/clut88yy104ho14apaq05u9jr.png" width="60px" alt="HΞLiX 🧙‍♂️🎩" /></a>

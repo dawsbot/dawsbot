@@ -34,7 +34,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 > Farcaster is decentralized social media 
 
 <!-- replace-degen-sponsors -->
-<a href="https://warpcast.com/downshift"><img src="https://i.imgur.com/Ln3n0SF.gif" width="60px" alt="downshift 🎩🍖↑" /></a>
+<a href="https://warpcast.com/downshift"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92a7c9fb-8693-4194-5038-eba578b06400/original" width="60px" alt="downshift 🎩🍖↑" /></a>
 <a href="https://warpcast.com/smac"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e16b9a51-e4ae-4385-8ebf-9ca7eeb9cd00/original" width="60px" alt="Mac 🎩" /></a>
 
 <!-- replace-degen-sponsors -->

@@ -39,5 +39,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/downshift"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/92a7c9fb-8693-4194-5038-eba578b06400/original" width="60px" alt="downshift 🎩🍖↑" /></a>
 <a href="https://warpcast.com/smac"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e16b9a51-e4ae-4385-8ebf-9ca7eeb9cd00/original" width="60px" alt="Mac 🎩" /></a>
 <a href="https://warpcast.com/tomuky.eth"><img src="https://i.imgur.com/pxNCWDA.jpg" width="60px" alt="tomuky" /></a>
+<a href="https://warpcast.com/ornella"><img src="https://i.imgur.com/74kR7Oc.jpg" width="60px" alt="OrnellaWeb3" /></a>
+<a href="https://warpcast.com/cywise"><img src="https://i.imgur.com/oqByTiR.jpg" width="60px" alt="CyWise🎩🍖" /></a>
 
 <!-- replace-degen-sponsors -->

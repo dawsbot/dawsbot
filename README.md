@@ -41,6 +41,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 <a href="https://warpcast.com/tomuky.eth"><img src="https://i.imgur.com/pxNCWDA.jpg" width="60px" alt="tomuky" /></a>
 <a href="https://warpcast.com/ornella"><img src="https://i.imgur.com/74kR7Oc.jpg" width="60px" alt="OrnellaWeb3" /></a>
 <a href="https://warpcast.com/cywise"><img src="https://i.imgur.com/oqByTiR.jpg" width="60px" alt="CyWise🎩🍖" /></a>
+<a href="https://warpcast.com/khosiiiiiiii"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/53f6620f-dd45-45ca-6eee-ae29b7a83400/rectcrop3" width="60px" alt="Khosro" /></a>
 <a href="https://warpcast.com/silv.eth"><img src="https://i.imgur.com/snShnTx.jpg" width="60px" alt="silv" /></a>
 
 <!-- replace-degen-sponsors -->

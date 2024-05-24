@@ -35,7 +35,7 @@ These are the sponsors that make this possible! [Support today here](https://git
 
 <!-- replace-degen-sponsors -->
 <a href="https://warpcast.com/aviationdoctor.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/5e8ddd60-c492-453f-3708-d6ef258b7300/original" width="60px" alt="Thomas" /></a>
-<a href="https://warpcast.com/willywonka.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/23125156-ea38-4180-3086-9c456a60a100/rectcrop3" width="60px" alt="willywonka.eth 🗑️🎩🌈" /></a>
+<a href="https://warpcast.com/willywonka.eth"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/049bf557-843e-4384-1b04-d06927879e00/original" width="60px" alt="willywonka.eth 🗑️🎩🌈" /></a>
 <a href="https://warpcast.com/downshift"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2544f83c-473c-4fa6-6664-441301c8fb00/original" width="60px" alt="downshift 🎩🍖↑" /></a>
 <a href="https://warpcast.com/smac"><img src="https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/e16b9a51-e4ae-4385-8ebf-9ca7eeb9cd00/original" width="60px" alt="Mac 🎩" /></a>
 <a href="https://warpcast.com/tomuky.eth"><img src="https://i.imgur.com/pxNCWDA.jpg" width="60px" alt="tomuky" /></a>

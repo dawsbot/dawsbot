@@ -1,4 +1,4 @@
-name: Generate Sponsors README
+name: Update GitHub Sponsors
 on:
   workflow_dispatch:
   schedule:
@@ -9,14 +9,6 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
-
-      - uses: dawsbot/degen-tips-readme-action@v1.1.0
-        with:
-          FARCASTER_USERNAME: ${{ secrets.FARCASTER_USERNAME }}
-          DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
-
-      - name: Commit changes
-        run: bash ./commit.sh
 
       - name: Generate Sponsors 💖
         uses: JamesIves/github-sponsors-readme-action@v1

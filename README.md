@@ -1,25 +1,33 @@
-![dawson](https://user-images.githubusercontent.com/3408480/145767802-2eb8e5b4-e364-441e-9bc1-aa254f872c34.png)
+![Dawson Botsford](https://user-images.githubusercontent.com/3408480/145767802-2eb8e5b4-e364-441e-9bc1-aa254f872c34.png)
 
-<p align="center">
-  Previous CTO @bankless and founder of <a href="https://earni.fi">earni.fi</a>. Helped Earnifi visitors find $1 billion USD in crypto airdrops.<br/><br/><br/>Product BUIDLER and web3 dev. Obsessed with Ethereum.
-</p>
-<p align="center">
-  <a href="https://twitter.com/dawsonbotsford" target="_blank">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dawsonbotsford?style=social">
-  </a>
-  <br/>
+# Hey, I'm Dawson
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+I'm an indie founder, AI consultant, and software engineer in Boulder. I'm building [Newly Filed](https://newlyfiled.com) and open-source tools for developer speed, public onchain data, and safer wallet UX.
 
-<p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/ETH-e6e6e6?style=for-the-badge&logo=ethereum&logoColor=black" />
-</p>
-</p>
+Previously, I was CTO at [Bankless](https://www.bankless.com) and founded [Earnifi](https://earni.fi), which helped visitors find $1 billion in crypto airdrops.
+
+[![Website](https://img.shields.io/badge/newlyfiled.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://newlyfiled.com)
+[![X](https://img.shields.io/badge/@dawsonbotsford-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/dawsonbotsford)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dawsbot)
+
+## Start here
+
+- Want one fast command for project tasks? Install [`nr`](https://github.com/dawsbot/nr#install).
+- Want an AI agent to identify Ethereum addresses? Run [`eth-labels-mcp`](https://github.com/dawsbot/eth-labels#mcp-server).
+- Need to migrate assets from a wallet you control? Review [`drain`](https://github.com/dawsbot/drain).
+
+## Selected open-source work
+
+| Project | What it does | Try it |
+| --- | --- | --- |
+| [`nr`](https://github.com/dawsbot/nr) | A tiny Rust task runner for JavaScript, Python, Rust, Make, Just, and more | [Install](https://github.com/dawsbot/nr#install) |
+| [`eth-labels`](https://github.com/dawsbot/eth-labels) | Public EVM address labels with an API, datasets, and MCP server | [API](https://eth-labels.com/swagger) |
+| [`essential-eth`](https://github.com/dawsbot/essential-eth) | A compact TypeScript alternative to larger Ethereum libraries | [Compare](https://github.com/dawsbot/essential-eth#why-you-should-replace-ethersjs-and-web3) |
+| [`drain`](https://github.com/dawsbot/drain) | A non-custodial wallet migration and rescue tool | [Open app](https://drain-tokens.vercel.app) |
+| [`RelativePath`](https://github.com/dawsbot/RelativePath) | A VS Code extension for finding and inserting relative file paths | [Marketplace](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) |
+| [`txn.xyz`](https://github.com/dawsbot/txn.xyz) | Shareable, wallet-shaped URLs for Ethereum transactions | [Open app](https://txn.xyz) |
+
+I like shipping focused tools, measuring the difference, and keeping the implementation understandable. If one of these projects is useful, issues and pull requests are welcome.
 
 ## Sponsors
 

@@ -2,28 +2,27 @@
 
 # Hey, I'm Dawson
 
-I'm an indie hacker, AI consultant, and developer in Boulder. I build fintech products and developer tools, usually taking them from the first prototype through production myself.
+I'm a founder, AI consultant, and developer in Boulder. I build software and hardware for the AI era.
 
-My current focus is [Newly Filed](https://newlyfiled.com): a faster way to search, track, and build with public-company filings from the SEC.
+My current focus is [On Premises](https://onpremises.ai): private AI systems that run inside a company's own building, so sensitive data never leaves it.
 
-Previously, I was CTO at [Bankless](https://www.bankless.com) and founded [Earnifi](https://earni.fi), which helped visitors find $1 billion in crypto airdrops. That work is part of my history; today I spend most of my time on AI, fintech, and tools that help developers move faster.
+Previously, I was CTO at [Bankless](https://www.bankless.com) and founded [Earnifi](https://earni.fi), which helped visitors find $1 billion in crypto airdrops. These days most of my time goes to AI, fintech, and tools that help developers move faster.
 
-[![Website](https://img.shields.io/badge/newlyfiled.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://newlyfiled.com)
+[![Website](https://img.shields.io/badge/onpremises.ai-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://onpremises.ai)
 [![X](https://img.shields.io/badge/@dawsonbotsford-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/dawsonbotsford)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dawsbot)
 
-## Building now: Newly Filed
+## Building now: On Premises
 
-[Newly Filed](https://newlyfiled.com) turns the SEC's EDGAR archive into a product people can actually use:
+[On Premises](https://onpremises.ai) delivers private AI to teams that cannot send their data to someone else's servers:
 
-- full-text search across public-company filings;
-- structured filing data for developers and financial workflows;
-- company watchlists and alerts for newly published disclosures; and
-- an API for building products on top of primary-source SEC data.
+- local inference on a dedicated workstation installed in your office
+- a chat interface with document upload for everyday work
+- OpenAI-compatible API endpoints so existing tools keep working
+- ongoing remote monitoring so the hardware stays healthy
 
-It is both a fintech product and an indie-hacker build: ingestion pipelines, search, data modeling, API design, billing, and the web experience all live under one roof.
+It suits teams with compliance requirements or sensitive data who are already using AI but cannot prove where that data goes. Nothing has to leave the building for inference to work.
 
-**[Search SEC filings →](https://newlyfiled.com)** · **[Explore the developer API →](https://newlyfiled.com/docs)**
+**[See how it works →](https://onpremises.ai)**
 
 ## AI consulting
 
@@ -31,12 +30,11 @@ I help teams turn AI ideas into working products and better engineering workflow
 
 If that sounds useful, reach me [on X](https://x.com/dawsonbotsford).
 
-## Developer tools
-
-I keep these tools small, fast, and straightforward to adopt:
+## Other projects
 
 | Project | What it does | Try it |
 | --- | --- | --- |
+| [Newly Filed](https://newlyfiled.com) | Full-text search, watchlists, and an API over SEC EDGAR filings | [Open app](https://newlyfiled.com/?utm_source=github&utm_medium=profile&utm_content=table) |
 | [`nr`](https://github.com/dawsbot/nr) | A tiny Rust task runner for JavaScript, Python, Rust, Make, Just, and more | [Install](https://github.com/dawsbot/nr#install) |
 | [`RelativePath`](https://github.com/dawsbot/RelativePath) | A VS Code extension for finding and inserting relative file paths | [Marketplace](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) |
 | [`essential-eth`](https://github.com/dawsbot/essential-eth) | A compact TypeScript library for EVM applications | [Compare](https://github.com/dawsbot/essential-eth#why-you-should-replace-ethersjs-and-web3) |

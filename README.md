@@ -34,7 +34,7 @@ If that sounds useful, reach me [on X](https://x.com/dawsonbotsford).
 
 | Project | What it does | Try it |
 | --- | --- | --- |
-| [Newly Filed](https://newlyfiled.com) | Full-text search, watchlists, and an API over SEC EDGAR filings | [Developer API](https://newlyfiled.com/docs) |
+| [Newly Filed](https://newlyfiled.com) | Full-text search, watchlists, and an API over SEC EDGAR filings | [Open app](https://newlyfiled.com/?utm_source=github&utm_medium=profile&utm_content=table) |
 | [`nr`](https://github.com/dawsbot/nr) | A tiny Rust task runner for JavaScript, Python, Rust, Make, Just, and more | [Install](https://github.com/dawsbot/nr#install) |
 | [`RelativePath`](https://github.com/dawsbot/RelativePath) | A VS Code extension for finding and inserting relative file paths | [Marketplace](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) |
 | [`essential-eth`](https://github.com/dawsbot/essential-eth) | A compact TypeScript library for EVM applications | [Compare](https://github.com/dawsbot/essential-eth#why-you-should-replace-ethersjs-and-web3) |
